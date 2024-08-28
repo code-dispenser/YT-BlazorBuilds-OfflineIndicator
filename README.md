@@ -4,6 +4,6 @@
 
 This repository contains the solution used in my YouTube showing one way of building an offline indicator component and associated service for .NET 8 Blazor WebAssembly.
 
-YouTube video : Will be posted later today.
+YouTube video : https://youtu.be/_hx7j4-Q798
 
 Coffees welcomed : https://ko-fi.com/codedispenser

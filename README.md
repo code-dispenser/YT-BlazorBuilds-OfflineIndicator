@@ -7,3 +7,6 @@ This repository contains the solution used in my YouTube video showing one way o
 YouTube video : https://youtu.be/_hx7j4-Q798
 
 Coffees welcomed : https://ko-fi.com/codedispenser
+
+**Note:** Please see https://github.com/BlazorRamp/Components for production ready accessible components - all of the YouTube video ones are being improved and upgraded.
+See docs  https://docs.blazorramp.uk
